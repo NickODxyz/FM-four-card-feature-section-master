@@ -14,6 +14,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 My first CSS Grid site. I'm very please with this one. Grid has a lot of options to get used to, so I enjoyed playing around with them. I found some great resources whilst building this one to help me, links to all are below.
 <br>
+<br>
 Had a much better attempt at the responsive layout as well with this one and very pleased with the outcome.
 
 <br>
@@ -28,9 +29,9 @@ Had a much better attempt at the responsive layout as well with this one and ver
 <br>
 
 ## Site links
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-four-card-feature-section-master/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/four-card-feature-section-grid-mobile-first--Gz5kUqmT)
 
 <br>
 
