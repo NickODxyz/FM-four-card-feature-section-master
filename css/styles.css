@@ -27,7 +27,6 @@ main {
 .wrapper {
     background-color: var(--very-light-gray);
     display: grid;
-    place-content: center;
     min-width: 37.5rem;
     max-width: 144rem;
     padding: 9rem 3.2rem 7rem;
