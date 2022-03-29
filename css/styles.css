@@ -26,7 +26,8 @@ main {
 
 .wrapper {
     background-color: var(--very-light-gray);
-    display: grid;
+    display: flex;
+    flex-direction: column;
     min-width: 37.5rem;
     max-width: 144rem;
     padding: 9rem 3.2rem 7rem;
@@ -180,10 +181,10 @@ main {
     }
 }
 
-/* .attribution {
+.attribution {
     font-size: 11px;
     text-align: center;
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
-} */
+}
